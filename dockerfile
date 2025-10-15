@@ -11,7 +11,7 @@ RUN printf "<Directory /var/www/html>\nOptions Indexes FollowSymLinks\nAllowOver
   > /etc/apache2/conf-available/z-override.conf \
   && a2enconf z-override
 
-# 🚀 Copiar directamente el contenido de tu carpeta MVC_Blog
+# Copiar directamente el contenido de tu carpeta MVC_Blog
 COPY ./MVC_Blog/ /var/www/html/
 
 # Establecer carpeta de trabajo
