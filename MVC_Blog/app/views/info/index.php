@@ -40,10 +40,6 @@
             <ul>
                 <li>PHP 8.2+</li>
                 <li>MySQL</li>
-                <li>HTML5 y CSS3</li>
-                <li>JavaScript</li>
-                <li>Apache con mod_rewrite</li>
-                <li>Docker</li>
             </ul>
         </div>
     </section>
