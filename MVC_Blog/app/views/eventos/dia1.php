@@ -355,8 +355,8 @@
 <body>
     <div class="container">
         <div class="event-header">
-            <h1>Día 1 - Inauguración <span class="badge">Lunes</span></h1>
-            <p class="event-date">📅 Lunes 13 de Octubre, 2025</p>
+            <h1 style="color: var(--white);">Día 1 - Inauguración <span class="badge">Lunes</span></h1>
+            <p class="event-date" style="color: var(--white);">📅 Lunes 13 de Octubre, 2025</p>
         </div>
         
         <section class="event-content">
@@ -376,7 +376,7 @@
                 
                 <div class="activity">
                     <h4>1. Ceremonia de Inauguración</h4>
-                    <p><strong>⏰ Hora:</strong> 8:00 AM - 9:00 AM</p>
+                    <p><strong>⏰ Hora:</strong> 8:00 AM - 8:00 AM</p>
                     <p><strong>📍 Lugar:</strong> Auditorio Principal</p>
                     <p>
                         Palabras de bienvenida por varias autoridades de la Universidad  y apertura oficial del evento.

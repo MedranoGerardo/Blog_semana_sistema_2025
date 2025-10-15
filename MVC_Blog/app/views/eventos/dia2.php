@@ -355,8 +355,8 @@
 <body>
     <div class="container">
         <div class="event-header">
-            <h1>Día 2 - Inauguración <span class="badge">Lunes</span></h1>
-            <p class="event-date">📅 Lunes 10 de Marzo, 2025</p>
+            <h1 style="color: var(--white);">Día 2 - Inauguración <span class="badge">Lunes</span></h1>
+            <p class="event-date" style="color: var(--white);">📅 Lunes 10 de Marzo, 2025</p>
         </div>
         
         <section class="event-content">

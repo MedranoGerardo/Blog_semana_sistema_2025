@@ -10,11 +10,12 @@
     <section class="about-event">
         <h2>Sobre el Evento</h2>
         <p>
-            La Semana de Sistemas 2025 es un evento académico y cultural que reúne a 
-            estudiantes, profesores y profesionales del área de sistemas e informática. 
-            Durante cinco días consecutivos, los participantes tienen la oportunidad de 
-            asistir a ponencias de expertos, participar en talleres prácticos y disfrutar 
-            de actividades recreativas.
+            La Semana de Sistemas 2025 es un evento académico realizado por la carrera de 
+            Ingeniería de Sistemas Informáticos de la Facultad Multidisciplinaria oriental
+            (FMO) que reúne a estudiantes, profesores y profesionales del área de sistemas e 
+            informática. Durante cinco días consecutivos, donde los participantes tienen la 
+            oportunidad de asistir a ponencias de expertos, participar en talleres prácticos y 
+            disfrutar de actividades recreativas.
         </p>
     </section>
     
@@ -25,7 +26,7 @@
                 <div class="card-header">Día 1</div>
                 <div class="card-body">
                     <h3>Inauguración</h3>
-                    <p>Ceremonia de apertura y presentación del evento</p>
+                    <p>Ceremonia de apertura y presentación del evento, con ponencias de expertos en el área.</p>
                     <a href="<?php echo url('evento/dia1'); ?>" class="btn">Ver más</a>
                 </div>
             </div>
@@ -33,8 +34,8 @@
             <div class="card">
                 <div class="card-header">Día 2</div>
                 <div class="card-body">
-                    <h3>Ponencias Técnicas</h3>
-                    <p>Charlas de expertos en tecnología</p>
+                    <h3>Talleres</h3>
+                    <p>Charlas y actividades prácticas sobre diversas temáticas.</p>
                     <a href="<?php echo url('evento/dia2'); ?>" class="btn">Ver más</a>
                 </div>
             </div>
@@ -42,7 +43,7 @@
             <div class="card">
                 <div class="card-header">Día 3</div>
                 <div class="card-body">
-                    <h3>Talleres Prácticos</h3>
+                    <h3>aun no se ha definido</h3>
                     <p>Sesiones interactivas y hands-on</p>
                     <a href="<?php echo url('evento/dia3'); ?>" class="btn">Ver más</a>
                 </div>

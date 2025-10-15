@@ -5,7 +5,7 @@ class EventoController {
         // IMPORTANTE: Definir variables ANTES de incluir header
         $titulo = "Día 1 - Inauguración";
         $dia = 1;
-        $fecha = "Lunes 10 de Marzo, 2025";
+        $fecha = "Lunes 13 de Octubre, 2025";
         
         // Ahora sí incluir las vistas
         require_once __DIR__ . '/../views/layout/header.php';
@@ -14,9 +14,9 @@ class EventoController {
     }
     
     public function dia2() {
-        $titulo = "Día 2 - Ponencias Técnicas";
+        $titulo = "Día 2 - Talleres";
         $dia = 2;
-        $fecha = "Martes 11 de Marzo, 2025";
+        $fecha = "Martes 14 de Octubre, 2025";
         
         require_once __DIR__ . '/../views/layout/header.php';
         require_once __DIR__ . '/../views/eventos/dia2.php';
@@ -26,7 +26,7 @@ class EventoController {
     public function dia3() {
         $titulo = "Día 3 - Talleres Prácticos";
         $dia = 3;
-        $fecha = "Miércoles 12 de Marzo, 2025";
+        $fecha = "Miércoles 15 de Octubre, 2025";
         
         require_once __DIR__ . '/../views/layout/header.php';
         require_once __DIR__ . '/../views/eventos/dia3.php';
@@ -36,7 +36,7 @@ class EventoController {
     public function dia4() {
         $titulo = "Día 4 - Competencias y Actividades";
         $dia = 4;
-        $fecha = "Jueves 13 de Marzo, 2025";
+        $fecha = "Jueves 16 de Octubre, 2025";
         
         require_once __DIR__ . '/../views/layout/header.php';
         require_once __DIR__ . '/../views/eventos/dia4.php';
@@ -46,7 +46,7 @@ class EventoController {
     public function dia5() {
         $titulo = "Día 5 - Clausura";
         $dia = 5;
-        $fecha = "Viernes 14 de Marzo, 2025";
+        $fecha = "Viernes 17 de Octubre, 2025";
         
         require_once __DIR__ . '/../views/layout/header.php';
         require_once __DIR__ . '/../views/eventos/dia5.php';
