@@ -6,10 +6,10 @@
             
             // Datos personales (REEMPLAZAR CON TUS DATOS)
             $datosPersonales = [
-                'nombre' => 'Tu Nombre Completo',
-                'carnet' => 'TU-CARNET',
-                'carrera' => 'Ingeniería en Sistemas',
-                'email' => 'tu.email@ejemplo.com',
+                'nombre' => 'Gerardo Alexander López Medrano',
+                'carnet' => 'LM20003',
+                'carrera' => 'Ingeniería de Sistemas Informáticos',
+                'email' => 'lm20003@ues.edu.sv',
                 'foto' => '/images/perfil/mi-foto.jpg'
             ];
             
