@@ -1,13 +1,17 @@
 <?php
-
-spl_autoload_register (function($clase){
-    $ruta = "../".str_replace("\\", "/", $clase).".php";
-
-    if (file_exists($ruta)) {
-        require_once($ruta);
-    }else {
-        die("no se puede cargar la ruta $ruta");
-    }
-});
-
+    spl_autoload_register(function ($class) {
+        $directories = [
+            __DIR__ . '/app/controllers/',
+            __DIR__ . '/app/models/',
+            __DIR__ . '/lib/'
+        ];
+        
+        foreach ($directories as $directory) {
+            $file = $directory . $class . '.php';
+            if (file_exists($file)) {
+                require_once $file;
+                return;
+            }
+        }
+    });
 ?>

@@ -1,23 +1,13 @@
 <?php
-    namespace app\Controllers;
-
     class HomeController {
+        
         public function index() {
-            return $this->view('HomeView', ['title' => 'Home']);
-        }
-
-        public function view($viewName, $data = []) {
-            require_once("../app/views/HomeView.php");
-            extract($data);
-            if(file_exists("../app/views/{$viewName}.php")) {
-                ob_start();
-                include("../app/views/{$viewName}.php");
-                $content = ob_get_clean();
-                return $content;
-            } else {
-                echo "vista no encontrada";
-            }
+            $titulo = "Semana de Sistemas 2025";
+            $descripcion = "Blog oficial de la Semana de Sistemas 2025";
+            
+            require_once __DIR__ . '/../views/layout/header.php';
+            require_once __DIR__ . '/../views/home/index.php';
+            require_once __DIR__ . '/../views/layout/footer.php';
         }
     }
-
 ?>
