@@ -6,7 +6,5 @@
             <p>Desarrollado con PHP y patrón MVC</p>
         </div>
     </footer>
-    
-    <script src="/js/main.js"></script>
 </body>
 </html>
