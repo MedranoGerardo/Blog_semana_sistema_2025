@@ -9,7 +9,14 @@ services:
     ports:
       - "8081:80"           # App en http://localhost:8080
     volumes:
-      - .:/var/www/html # Tu código local en ./src
+      #- .:/var/www/html # Tu código local en ./src
+      - ./MVC_Blog/public:/var/www/html
+      - ./MVC_Blog/app:/var/www/app
+      - ./MVC_Blog/lib:/var/www/lib
+      - ./MVC_Blog/routes:/var/www/routes
+      - ./MVC_Blog/autoloader.php:/var/www/autoloader.php
+      - ./conexionphp:/var/www/conexionphp
+      
     depends_on:
       db:
         condition: service_healthy
@@ -18,16 +25,17 @@ services:
     image: mysql:8.0
     container_name: mysql80
     environment:
-      MYSQL_ROOT_PASSWORD: rootpass
-      MYSQL_DATABASE: appdb
-      MYSQL_USER: appuser
-      MYSQL_PASSWORD: apppass
+      TZ: America/El_Salvador
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: blog_sistemas_2025
+      #MYSQL_USER: appuser
+      #MYSQL_PASSWORD: apppass
     ports:
       - "3307:3306"         # Opcional exponerlo al host
     volumes:
       - db_data:/var/lib/mysql
     healthcheck:
-      test: ["CMD-SHELL", "mysqladmin ping -h localhost -prootpass || exit 1"]
+      test: ["CMD-SHELL", "mysqladmin ping -h localhost || exit 1"]
       interval: 5s
       timeout: 5s
       retries: 20
@@ -42,7 +50,7 @@ services:
     environment:
       PMA_HOST: db
       PMA_USER: root
-      PMA_PASSWORD: rootpass
+      PMA_PASSWORD:
     ports:
       - "8082:80"           # phpMyAdmin en http://localhost:8081
 

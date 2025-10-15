@@ -1,5 +1,5 @@
 <?php
-    require_once __DIR__ . '/../../../conexionphp/database.php';
+    require_once __DIR__ . '/../../conexionphp/database.php';
 
     class VisitaController {
         

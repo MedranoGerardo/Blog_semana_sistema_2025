@@ -16,7 +16,7 @@
             </div>
         <?php endif; ?>
         
-        <form action="/visitas/guardar" method="POST" class="registro-form">
+    <form action="index.php?url=visitas/guardar" method="POST" class="registro-form">
             <div class="form-group">
                 <label for="nombre">Nombre Completo *</label>
                 <input 

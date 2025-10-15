@@ -8,6 +8,9 @@
     // Cargar rutas
     require_once __DIR__ . '/../routes/web.php';
 
+    // Obtener la URL solicitada
+    require_once __DIR__ . '/../lib/Route.php';
+
     // Obtener la URL solicitada"
     if (!isset($_GET['url'])) {
         $requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);

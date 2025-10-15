@@ -1,5 +1,7 @@
 <?php
-    require_once __DIR__ . '/../../../conexionphp/database.php';
+    #require_once __DIR__ . '/../../../conexionphp/database.php';
+    require_once '/var/www/conexionphp/database.php';
+
 
     class VisitaModel {
         private $conn;
