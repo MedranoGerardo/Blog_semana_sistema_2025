@@ -8,21 +8,21 @@
             </div>
             
             <div class="profile-info">
-                <h2><?php echo $datosPersonales['Gerardo Alexander López Medrano']; ?></h2>
+                <h2><?php echo $datosPersonales['nombre']; ?>Gerardo Alexander López Medrano</h2>
                 
                 <div class="info-item">
                     <strong>Carnet:</strong>
-                    <span><?php echo $datosPersonales['LM20003']; ?></span>
+                    <span><?php echo $datosPersonales['carnet']; ?>LM20003</span>
                 </div>
                 
                 <div class="info-item">
                     <strong>Carrera:</strong>
-                    <span><?php echo $datosPersonales['Ingenieria de sistemas informaticos']; ?></span>
+                    <span><?php echo $datosPersonales['carrera']; ?>Ingeniería de Sistemas Informáticos</span>
                 </div>
                 
                 <div class="info-item">
                     <strong>Email:</strong>
-                    <span><?php echo $datosPersonales['lm20003@ues.edu.sv']; ?></span>
+                    <span><?php echo $datosPersonales['email']; ?>lm20003@ues.edu.sv</span>
                 </div>
             </div>
         </div>
@@ -38,12 +38,11 @@
             
             <h4>Tecnologías Utilizadas:</h4>
             <ul>
-                <li>PHP 8.2</li>
+                <li>PHP 7.4+</li>
                 <li>MySQL</li>
                 <li>HTML5 y CSS3</li>
                 <li>JavaScript</li>
                 <li>Apache con mod_rewrite</li>
-                <li>Docker</li>
             </ul>
         </div>
     </section>
