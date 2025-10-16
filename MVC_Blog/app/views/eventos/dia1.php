@@ -11,7 +11,7 @@
     <div class="container">
         <div class="event-header">
             <h1 style="color: var(--white);">Día 1 - Inauguración <span class="badge">Lunes</span></h1>
-            <p class="event-date" style="color: var(--white);">📅 Lunes 13 de Octubre, 2025</p>
+            <p class="event-date" style="color: var(--white);">Lunes 13 de Octubre, 2025</p>
         </div>
         
         <section class="event-content">
@@ -31,88 +31,110 @@
                 
                 <div class="activity">
                     <h4>1. Ceremonia de Inauguración</h4>
-                    <p><strong>⏰ Hora:</strong> 8:00 AM - 8:00 AM</p>
-                    <p><strong>📍 Lugar:</strong> Auditorio Principal</p>
+                    <p><strong>Hora:</strong> 8:00 AM - 9:00 AM</p>
+                    <p><strong>Lugar:</strong> Auditorio 1</p>
                     <p>
-                        Palabras de bienvenida por varias autoridades de la Universidad  y apertura oficial del evento.
-                        Se destacó la importancia de la tecnología en el desarrollo profesional.
+                        Palabras de bienvenida por parte de diversas autoridades de la Universidad y apertura oficial del evento.
+                        Se resaltó la importancia de la tecnología en el desarrollo profesional. Participaron con sus mensajes la 
+                        Vicedecana Dra. Asuzena Retana, El Ing. Luis Castro, El jefe del Departamento de Ingeniería Y Arquitectura, 
+                        El Ing. Diego Herrera, encargado de la carrera, y Karla Orellana, presidenta de la ASEIS.
                     </p>
                 </div>
                 
                 <div class="activity">
-                    <h4>2. Ponencia Magistral: "El Futuro de la IA"</h4>
-                    <p><strong>⏰ Hora:</strong> 9:30 AM - 11:00 AM</p>
-                    <p><strong>👨‍🏫 Ponente:</strong> Dr. Juan Pérez</p>
-                    <p><strong>📚 Tema:</strong> Inteligencia Artificial y Machine Learning</p>
+                    <h4>2. Ponencia #1: "El ABC del Bitcoin"</h4>
+                    <p><strong>Hora:</strong> 9:00 AM - 10:30 AM</p>
+                    <p><strong>Ponente:</strong> Msc. Luis Contreras</p>
+                    <p><strong>Lugar:</strong> Auditorio 1</p>
                     <p>
-                        El Dr. Pérez compartió su visión sobre las tendencias actuales en 
-                        Inteligencia Artificial y cómo están transformando la industria tecnológica.
-                        Presentó casos reales de implementación de IA en empresas de la región.
+                        El Maestro Contreras compartió su visión sobre las tendencias actuales del Bitcoin y cómo están transformando 
+                        la industria financiera. Explicó que la economía se mueve por el consumo y que el Bitcoin, como moneda digital 
+                        descentralizada, permite realizar transacciones seguras y rápidas a nivel global. Mencionó que esta criptomoneda 
+                        tiene el potencial de revolucionar la forma en que manejamos el dinero y las finanzas personales. Además, presentó 
+                        casos reales de implementación de criptomonedas en El Salvador, junto con la historia, evolución e impacto 
+                        del Bitcoin en la economía global. Finalmente, mostró distintos tipos de billeteras digitales, tanto wallets frías 
+                        como calientes.
                     </p>
                 </div>
                 
                 <div class="activity">
-                    <h4>3. Panel de Discusión: "Tecnología y Sociedad"</h4>
-                    <p><strong>⏰ Hora:</strong> 2:00 PM - 4:00 PM</p>
-                    <p><strong>👥 Panelistas:</strong> Diversos expertos del sector tecnológico</p>
+                    <h4>3. Ponencia #2: "Inteligencia Artificial Generica - de la idea a la accion"</h4>
+                    <p><strong>Hora:</strong> 11:00 AM - 12:00 PM</p>
+                    <p><strong>Ponente:</strong> Ing. Rodrigo Pineda</p>
+                    <p><strong>Lugar:</strong> Auditorio 1</p>
                     <p>
-                        Debate sobre el impacto social de las nuevas tecnologías y la 
-                        responsabilidad de los profesionales en sistemas. Se abordaron temas 
-                        como ética en IA, privacidad de datos y transformación digital.
+                        Durante la ponencia se abordó la importancia de la capacitación en inteligencia artificial, destacando la necesidad 
+                        de adquirir nuevos conocimientos para adaptarse a las tecnologías emergentes. Se presentó una breve historia sobre 
+                        la inteligencia artificial, desde sus inicios hasta la actualidad, mencionando que la primera vez que se utilizó un 
+                        algoritmo  marcó un punto clave en el desarrollo de esta disciplina. También se reconoció a Alan Turing, considerado el 
+                        padre de la informática moderna, y a Vinton Cerf (“Windsurf”), uno de los pioneros de Internet. Finalmente, se explicó 
+                        que herramientas como N8n facilitan la automatización de procesos y que para publicar proyectos en línea es posible 
+                        adquirir un dominio web con costos que oscilan entre 5 y 10 dólares.
+                    </p>
+                </div>
+
+                <div class="activity">
+                    <h4>4."Hackathon c#"</h4>
+                    <p><strong>Hora:</strong> 1:00 PM - 4:00 PM</p>
+                    <p><strong>Temas:</strong> Desarrollo de sistemas en C#</p>
+                    <p><strong>Lugar:</strong> Auditorio 1</p>
+                    <p>
+                        Durante la hackathon se promovió la colaboración entre los participantes para desarrollar soluciones innovadoras utilizando C#.
+                        Se brindaron ideas y temáticas orientadoras que ayudaron a los equipos a implementar sus proyectos de forma creativa y efectiva.
                     </p>
                 </div>
             </div>
             
             <div class="gallery">
-                <h3>📸 Galería de Fotos del Día</h3>
+                <h3>Galería de Fotos del Día</h3>
                 <div class="gallery-grid">
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop" alt="Inauguración">
-                        <p class="gallery-caption">🎤 Ceremonia de inauguración</p>
+                        <p class="gallery-caption">Ceremonia de inauguración</p>
                     </div>
                     
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop" alt="Ponencia">
-                        <p class="gallery-caption">🧠 Dr. Pérez durante su ponencia sobre IA</p>
+                        <p class="gallery-caption">Dr. Pérez durante su ponencia sobre IA</p>
                     </div>
                     
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=400&h=300&fit=crop" alt="Asistencia">
-                        <p class="gallery-caption">👨‍💻 Mi participación en el evento</p>
+                        <p class="gallery-caption">Mi participación en el evento</p>
                     </div>
 
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&h=300&fit=crop" alt="Panel">
-                        <p class="gallery-caption">💬 Panel de discusión sobre tecnología</p>
+                        <p class="gallery-caption">Panel de discusión sobre tecnología</p>
                     </div>
                     
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&h=300&fit=crop" alt="Audiencia">
-                        <p class="gallery-caption">👥 Audiencia participando activamente</p>
+                        <p class="gallery-caption">Audiencia participando activamente</p>
                     </div>
                     
                     <div class="gallery-item">
                         <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=300&fit=crop" alt="Networking">
-                        <p class="gallery-caption">🤝 Momento de networking</p>
+                        <p class="gallery-caption">Momento de networking</p>
                     </div>
                 </div>
             </div>
             
             <div class="videos">
-                <h3>🎥 Videos del Día</h3>
+                <h3>Videos del Día</h3>
                 <div class="video-container">
                     <video controls poster="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop">
                         <source src="/videos/dia1/inauguracion.mp4" type="video/mp4">
                         Tu navegador no soporta el elemento de video.
                     </video>
-                    <p class="video-caption">🎬 Video resumen de la inauguración y ponencias del día 1</p>
+                    <p class="video-caption">Video resumen de la inauguración y ponencias del día 1</p>
                 </div>
             </div>
             
             <div class="attendance-proof">
-                <h3>✅ Comprobante de Mi Asistencia</h3>
+                <h3>Comprobante de Mi Asistencia</h3>
                 <p>
-                    📌 A continuación se muestra evidencia fotográfica de mi participación 
+                    A continuación se muestra evidencia fotográfica de mi participación 
                     en las actividades del día 1. Estuve presente desde la inauguración 
                     hasta el panel de discusión.
                 </p>

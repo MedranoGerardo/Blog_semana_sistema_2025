@@ -102,7 +102,6 @@
 }
 
 .activity h4::before {
-    content: "🎯";
     font-size: 1.3rem;
 }
 

@@ -43,8 +43,8 @@
             <div class="card">
                 <div class="card-header">Día 3</div>
                 <div class="card-body">
-                    <h3>aun no se ha definido</h3>
-                    <p>Sesiones interactivas y hands-on</p>
+                    <h3>Torneo de futbol 11</h3>
+                    <p>Competencia deportiva entre equipos de la facultad.</p>
                     <a href="<?php echo url('evento/dia3'); ?>" class="btn">Ver más</a>
                 </div>
             </div>
@@ -52,8 +52,8 @@
             <div class="card">
                 <div class="card-header">Día 4</div>
                 <div class="card-body">
-                    <h3>Competencias</h3>
-                    <p>Actividades competitivas y recreativas</p>
+                    <h3>Feria de logros y comelona de pupusas</h3>
+                    <p>Exhibición de proyectos y degustación de pupusas.</p>
                     <a href="<?php echo url('evento/dia4'); ?>" class="btn">Ver más</a>
                 </div>
             </div>
@@ -61,8 +61,8 @@
             <div class="card">
                 <div class="card-header">Día 5</div>
                 <div class="card-body">
-                    <h3>Clausura</h3>
-                    <p>Cierre del evento y premiación</p>
+                    <h3>Bingo, Torneo de Videojuegos y Fiesta</h3>
+                    <p>Actividades recreativas y de esparcimiento para cerrar el evento.</p>
                     <a href="<?php echo url('evento/dia5'); ?>" class="btn">Ver más</a>
                 </div>
             </div>
