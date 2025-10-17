@@ -155,7 +155,7 @@
         </section>
         
         <nav class="day-navigation">
-            <a href="<?php echo url(); ?>" class="btn">← Volver al inicio</a>
+             <a href="<?php echo url('evento/dia1'); ?>" class="btn">← Día 1 - Inauguración</a>
             <a href="<?php echo url('evento/dia3'); ?>" class="btn">Día 3 - Torneo de futbol 11 →</a>
         </nav>
     </div>

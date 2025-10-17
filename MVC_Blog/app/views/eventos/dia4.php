@@ -66,33 +66,33 @@
                 <h3>Galería de Fotos del Día</h3>
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop" alt="Inauguración">
-                        <p class="gallery-caption">Ceremonia de inauguración</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760678424/dia4-img2_yby9lu.jpg" alt="Feria de logros">
+                        <p class="gallery-caption">Feria de logros</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop" alt="Ponencia">
-                        <p class="gallery-caption">Dr. Pérez durante su ponencia sobre IA</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760678424/dia4-img3_pxinjm.jpg" alt="Feria de logros">
+                        <p class="gallery-caption"> Feria de logros</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=400&h=300&fit=crop" alt="Asistencia">
-                        <p class="gallery-caption">Mi participación en el evento</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760678424/dia4-img1_xicnlk.jpg" alt="Feria de logros">
+                        <p class="gallery-caption">Feria de logros</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&h=300&fit=crop" alt="Panel">
-                        <p class="gallery-caption">Panel de discusión sobre tecnología</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760679423/dia4-img8_fyzpk7.jpg" alt="Feria de logros">
+                        <p class="gallery-caption">Feria de logros</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&h=300&fit=crop" alt="Audiencia">
-                        <p class="gallery-caption">Audiencia participando activamente</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760678900/dia4-img5_yt9v27.jpg" alt="Comelona de Pupusas">
+                        <p class="gallery-caption">Comelona de Pupusas</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=300&fit=crop" alt="Networking">
-                        <p class="gallery-caption">Momento de networking</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760678899/dia4-img7_onigbd.jpg" alt="Comelona de Pupusas">
+                        <p class="gallery-caption">Comelona de Pupusas</p>
                     </div>
                 </div>
             </div>
@@ -100,11 +100,11 @@
             <div class="videos">
                 <h3>Videos del Día</h3>
                 <div class="video-container">
-                    <video controls poster="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop">
-                        <source src="/videos/dia1/inauguracion.mp4" type="video/mp4">
+                    <video controls poster="https://res.cloudinary.com/djkezou6s/video/upload/v1760680744/dia4-img12_ytulmg.mp4">
+                        <source src="https://res.cloudinary.com/djkezou6s/video/upload/v1760680744/dia4-img12_ytulmg.mp4" type="video/mp4">
                         Tu navegador no soporta el elemento de video.
                     </video>
-                    <p class="video-caption">Video resumen de la inauguración y ponencias del día 1</p>
+                    <p class="video-caption">Video del inicio de la Comelona de pupusas</p>
                 </div>
             </div>
 
@@ -112,20 +112,19 @@
                 <h3>Comprobante de Mi Asistencia</h3>
                 <p>
                     A continuación se muestra evidencia fotográfica de mi participación
-                    en las actividades del día 1. Estuve presente desde la inauguración
-                    hasta el panel de discusión.
+                    en las actividades del día 4. Estuve presente desde la feria de logros
+                    hasta la comelona de pupusas. Donde se puede ver mi participación activa.
                 </p>
                 <div class="proof-images">
-                    <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=300&fit=crop" alt="Mi asistencia 1">
-                    <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop" alt="Mi asistencia 2">
-                    <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=300&fit=crop" alt="Mi asistencia 3">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760679589/dia4-img9_qpj0cs.jpg" alt="Mi asistencia 1">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760679589/dia4-img11_ixamey.jpg" alt="Mi asistencia 2">
                 </div>
             </div>
         </section>
 
         <nav class="day-navigation">
-            <a href="<?php echo url('evento/dia3'); ?>" class="btn">← Día 3 - Talleres</a>
-            <a href="<?php echo url('evento/dia5'); ?>" class="btn">Día 5 - Clausura →</a>
+            <a href="<?php echo url('evento/dia3'); ?>" class="btn">← Día 3 - Torneo de futbol 11</a>
+            <a href="<?php echo url('evento/dia5'); ?>" class="btn">Día 5 - Bingo, Torneo de Videojuegos y Fiesta →</a>
         </nav>
     </div>
 </body>

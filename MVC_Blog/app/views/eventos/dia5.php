@@ -126,7 +126,7 @@
         </section>
         
         <nav class="day-navigation">
-            <a href="<?php echo url('evento/dia4'); ?>" class="btn">← Día 4 - Talleres</a>
+            <a href="<?php echo url('evento/dia4'); ?>" class="btn">← Día 4 - Feria de logros y comelona de pupusas</a>
             <a href="<?php echo url(); ?>" class="btn">Volver al inicio</a>
         </nav>
     </div>
