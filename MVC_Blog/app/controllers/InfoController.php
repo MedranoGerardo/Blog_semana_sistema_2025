@@ -4,7 +4,6 @@
         public function index() {
             $titulo = "Mi Información";
             
-            // Datos personales (REEMPLAZAR CON TUS DATOS)
             $datosPersonales = [
                 'nombre' => 'Gerardo Alexander López Medrano',
                 'carnet' => 'LM20003',

@@ -304,26 +304,6 @@ section h3 {
     font-size: 0.9rem;
 }
 
-/* Videos */
-.videos {
-    margin: 2rem 0;
-}
-
-.video-container {
-    margin: 1rem 0;
-}
-
-.video-container video {
-    border-radius: 8px;
-    box-shadow: var(--shadow);
-}
-
-.video-caption {
-    margin-top: 0.5rem;
-    color: var(--text-light);
-    text-align: center;
-}
-
 /* Comprobante de Asistencia */
 .attendance-proof {
     margin: 2rem 0;

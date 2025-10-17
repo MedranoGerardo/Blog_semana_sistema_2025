@@ -98,33 +98,33 @@
                 <h3>Galería de Fotos del Día</h3>
                 <div class="gallery-grid">
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop" alt="Inauguración">
-                        <p class="gallery-caption">Ceremonia de inauguración</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760671650/dia2-img1_adwsnw.png" alt="Taller1">
+                        <p class="gallery-caption">Taller 1: Toma de decisiones estratégicas basadas en datos</p>
                     </div>
                     
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop" alt="Ponencia">
-                        <p class="gallery-caption">Dr. Pérez durante su ponencia sobre IA</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760671650/dia2-img2_uezyt0.png" alt="Taller1">
+                        <p class="gallery-caption">Taller 1: Toma de decisiones estratégicas basadas en datos</p>
                     </div>
                     
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=400&h=300&fit=crop" alt="Asistencia">
-                        <p class="gallery-caption">Mi participación en el evento</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760673143/dia2-img4_vdhi31.png" alt="Taller2.2">
+                        <p class="gallery-caption">Taller 2.2: Construyendo un CRUD en minutos con Laravel y Filament</p>
                     </div>
 
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&h=300&fit=crop" alt="Panel">
-                        <p class="gallery-caption">Panel de discusión sobre tecnología</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760673144/dia2-img5_xazuwk.png" alt="Taller2.2">
+                        <p class="gallery-caption">Taller 2.2: Construyendo un CRUD en minutos con Laravel y Filament</p>
                     </div>
                     
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&h=300&fit=crop" alt="Audiencia">
-                        <p class="gallery-caption">Audiencia participando activamente</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760673886/dia2-img6_hfprev.png" alt="Taller4">
+                        <p class="gallery-caption">Taller 4: IA Multimodal: Creando el futuro visual e inteligencia con n8n De texto a imagen que conectan y transforman</p>
                     </div>
                     
                     <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=300&fit=crop" alt="Networking">
-                        <p class="gallery-caption">Momento de networking</p>
+                        <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760673887/dia2-img7_y6efep.png" alt="Taller4">
+                        <p class="gallery-caption">Taller 4: IA Multimodal: Creando el futuro visual e inteligencia con n8n De texto a imagen que conectan y transforman</p>
                     </div>
                 </div>
             </div>
@@ -132,11 +132,11 @@
             <div class="videos">
                 <h3>Videos del Día</h3>
                 <div class="video-container">
-                    <video controls poster="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop">
-                        <source src="/videos/dia1/inauguracion.mp4" type="video/mp4">
+                    <video controls poster="https://res.cloudinary.com/djkezou6s/video/upload/v1760674725/Meet_-_Ponencia_1_Toma_de_decisiones_estrat%C3%A9gicas_basadas_en_datos_-_Google_Chrome_2025-10-14_08-21-43_kyazca.mp4">
+                        <source src="https://res.cloudinary.com/djkezou6s/video/upload/v1760674725/Meet_-_Ponencia_1_Toma_de_decisiones_estrat%C3%A9gicas_basadas_en_datos_-_Google_Chrome_2025-10-14_08-21-43_kyazca.mp4" type="video/mp4">
                         Tu navegador no soporta el elemento de video.
                     </video>
-                    <p class="video-caption">Video resumen de la inauguración y ponencias del día 1</p>
+                    <p class="video-caption">Video resumen de el taller 1 del día 2</p>
                 </div>
             </div>
             
@@ -144,20 +144,19 @@
                 <h3>Comprobante de Mi Asistencia</h3>
                 <p>
                     A continuación se muestra evidencia fotográfica de mi participación 
-                    en las actividades del día 1. Estuve presente desde la inauguración 
-                    hasta el panel de discusión.
+                    en las actividades del día 2. Estuve presente desde el taller 1 hasta el taller 4.
                 </p>
                 <div class="proof-images">
-                    <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=300&fit=crop" alt="Mi asistencia 1">
-                    <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop" alt="Mi asistencia 2">
-                    <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=300&fit=crop" alt="Mi asistencia 3">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760671651/dia2-img3_eoua29.png" alt="Taller 1">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760673144/dia2-img5_xazuwk.png" alt="Taller 2.2">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760675116/dias2-img8_mo6ugu.png" alt="Taller 4">
                 </div>
             </div>
         </section>
         
         <nav class="day-navigation">
             <a href="<?php echo url(); ?>" class="btn">← Volver al inicio</a>
-            <a href="<?php echo url('evento/dia3'); ?>" class="btn">Día 3 - Talleres →</a>
+            <a href="<?php echo url('evento/dia3'); ?>" class="btn">Día 3 - Torneo de futbol 11 →</a>
         </nav>
     </div>
 </body>
