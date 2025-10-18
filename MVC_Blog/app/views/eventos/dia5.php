@@ -134,6 +134,7 @@
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760752994/dia5-img3_gs1sgf.jpg" alt="Mi asistencia 1">
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760752994/dia5-img2_ih9q7i.jpg" alt="Mi asistencia 2">
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760751871/dia5-img1_pi6f3d.jpg" alt="Mi asistencia 3" style="width: 300px; height: 240px;">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760764125/fiesta_cxfdrw.jpg" alt="Mi asistencia 4">
                 </div>
             </div>
         </section>
