@@ -126,9 +126,8 @@
             <div class="attendance-proof">
                 <h3>Comprobante de Mi Asistencia</h3>
                 <p>
-                    A continuación se muestra evidencia fotográfica de mi participación 
-                    en las actividades del día 1. Estuve presente desde la inauguración 
-                    hasta el panel de discusión.
+                    A continuación se muestra evidencia fotográfica de mi participación
+                    en las actividades del día 5. Estuve presente desde el Bingo Tecnológico, también en el Torneo de Videojuegos y la Fiesta.
                 </p>
                 <div class="proof-images">
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760752994/dia5-img3_gs1sgf.jpg" alt="Mi asistencia 1">
