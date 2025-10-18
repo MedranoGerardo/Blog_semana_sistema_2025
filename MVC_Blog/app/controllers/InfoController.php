@@ -9,7 +9,7 @@
                 'carnet' => 'LM20003',
                 'carrera' => 'Ingeniería de Sistemas Informáticos',
                 'email' => 'lm20003@ues.edu.sv',
-                'foto' => '/images/perfil/mi-foto.jpg'
+                'foto' => 'https://res.cloudinary.com/djkezou6s/image/upload/v1760679589/dia4-img10_c81p4t.jpg'
             ];
             
             require_once __DIR__ . '/../views/layout/header.php';

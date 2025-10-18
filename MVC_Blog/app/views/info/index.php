@@ -4,7 +4,7 @@
         
         <div class="profile-card">
             <div class="profile-image">
-                <img src="<?php echo $datosPersonales['foto']; ?>" alt="Foto personal">
+                <img src="<?= $datosPersonales['foto'] ?>" alt="Foto de <?= $datosPersonales['nombre'] ?>" style="width:200px; border-radius:10px;">
             </div>
             
             <div class="profile-info">
