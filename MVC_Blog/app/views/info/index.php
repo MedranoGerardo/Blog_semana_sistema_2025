@@ -40,6 +40,10 @@
             <ul>
                 <li>PHP 8.2+</li>
                 <li>MySQL</li>
+                <li>CSS3</li>
+                <li>Docker</li>
+                <li>Cloudinary</li>
+                <li>GitHub</li>
             </ul>
         </div>
     </section>

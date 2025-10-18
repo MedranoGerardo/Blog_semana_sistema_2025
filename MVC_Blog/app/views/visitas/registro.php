@@ -2,7 +2,7 @@
     <section class="registro-visitas">
         <h1>Registro de Visitas</h1>
         <p class="lead">
-            Si has visitado este blog, nos encantaría saber tu opinión. 
+            Si has visitado este blog, me encantaría saber tu opinión. 
             Por favor completa el siguiente formulario.
         </p>
         

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Día 5 - Bingo, Torneo de Videojuegos y Fiesta | Semana de Sistemas 2025</title>
+    <title> Día 5 - Bingo, Torneo de Videojuegos y Fiesta | Semana de Sistemas 2025</title>
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/evento.css">
 </head>
@@ -133,7 +133,7 @@
                 <div class="proof-images">
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760752994/dia5-img3_gs1sgf.jpg" alt="Mi asistencia 1">
                     <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760752994/dia5-img2_ih9q7i.jpg" alt="Mi asistencia 2">
-                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760751871/dia5-img1_pi6f3d.jpg" alt="Mi asistencia 3">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760751871/dia5-img1_pi6f3d.jpg" alt="Mi asistencia 3" style="width: 300px; height: 240px;">
                 </div>
             </div>
         </section>

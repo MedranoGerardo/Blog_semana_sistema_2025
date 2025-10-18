@@ -40,64 +40,15 @@
                 </div>
             </div>
             
-            <div class="gallery">
-                <h3>Galería de Fotos del Día</h3>
-                <div class="gallery-grid">
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop" alt="Inauguración">
-                        <p class="gallery-caption">Ceremonia de inauguración</p>
-                    </div>
-                    
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop" alt="Ponencia">
-                        <p class="gallery-caption">Dr. Pérez durante su ponencia sobre IA</p>
-                    </div>
-                    
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=400&h=300&fit=crop" alt="Asistencia">
-                        <p class="gallery-caption">Mi participación en el evento</p>
-                    </div>
-
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=400&h=300&fit=crop" alt="Panel">
-                        <p class="gallery-caption">Panel de discusión sobre tecnología</p>
-                    </div>
-                    
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400&h=300&fit=crop" alt="Audiencia">
-                        <p class="gallery-caption">Audiencia participando activamente</p>
-                    </div>
-                    
-                    <div class="gallery-item">
-                        <img src="https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=300&fit=crop" alt="Networking">
-                        <p class="gallery-caption">Momento de networking</p>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="videos">
-                <h3>Videos del Día</h3>
-                <div class="video-container">
-                    <video controls poster="https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop">
-                        <source src="/videos/dia1/inauguracion.mp4" type="video/mp4">
-                        Tu navegador no soporta el elemento de video.
-                    </video>
-                    <p class="video-caption">Video resumen de la inauguración y ponencias del día 1</p>
-                </div>
-            </div>
-            
             <div class="attendance-proof">
-                <h3>Comprobante de Mi Asistencia</h3>
+                <h3>Comprobante de Cancelacion</h3>
                 <p>
-                    A continuación se muestra evidencia fotográfica de mi participación 
-                    en las actividades del día 1. Estuve presente desde la inauguración 
-                    hasta el panel de discusión.
+                    A continuación se muestra evidencia fotográfica de la cancelación 
+                    del torneo de futbol 11 programado para el día 3.
                 </p>
-                <div class="proof-images">
-                    <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=300&fit=crop" alt="Mi asistencia 1">
-                    <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=400&h=300&fit=crop" alt="Mi asistencia 2">
-                    <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=400&h=300&fit=crop" alt="Mi asistencia 3">
-                </div>
+                <div class="proof-images" style="display: flex; justify-content: center;">
+                    <img src="https://res.cloudinary.com/djkezou6s/image/upload/v1760756912/cancelacion_g2sx0b.jpg" alt="Comprobante de Cancelacion" style="width: 300px;">
+                </div> 
             </div>
         </section>
         

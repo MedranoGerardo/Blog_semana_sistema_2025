@@ -44,7 +44,7 @@ class EventoController {
     }
     
     public function dia5() {
-        $titulo = "Día 5 - Clausura";
+        $titulo = "Día 5 - Bingo, Torneo de Videojuegos y FiestaV";
         $dia = 5;
         $fecha = "Viernes 17 de Octubre, 2025";
         
