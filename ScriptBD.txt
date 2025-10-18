@@ -1,0 +1,12 @@
+CREATE DATABASE blog_sistemas_2025;
+
+USE blog_sistemas_2025;
+
+CREATE TABLE visitas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    comentario TEXT,
+    fecha_visita TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    INDEX idx_fecha (fecha_visita)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
